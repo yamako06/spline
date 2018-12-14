@@ -1,4 +1,4 @@
-#! /usr/local/bin/python3.6
+#! /usr/local/bin/python3.7
 """
 3-D spline interpolation
 (with graph drawing by matplotlib)
